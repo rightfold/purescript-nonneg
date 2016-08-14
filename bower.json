@@ -1,0 +1,12 @@
+{
+  "name": "purescript-nonneg",
+  "dependencies": {
+    "purescript-prelude": "^1.0.1",
+    "purescript-eval": "^1.0.0",
+    "purescript-quickcheck": "^1.0.0"
+  },
+  "devDependencies": {
+    "purescript-quickcheck-laws": "^1.0.0",
+    "purescript-proxy": "^1.0.0"
+  }
+}
